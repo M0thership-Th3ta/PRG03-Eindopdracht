@@ -1,0 +1,83 @@
+{
+  "count": 5,
+  "hololive": [
+    {
+      "name": "Calliope Mori",
+      "url": "",
+      "details": {
+        "debut": "",
+        "language": "",
+        "sub-group": ""
+      }
+    },
+    {
+      "name": "Takanashi Kiara",
+      "url": "",
+      "details": {
+        "debut": "",
+        "language": "",
+        "sub-group": ""
+      }
+    }
+  ],
+  "nijisanji": [
+    {
+      "name": "Selen Tatsuki",
+      "url": "",
+      "details": {
+        "debut": "",
+        "language": "",
+        "sub-group": ""
+      }
+    },
+    {
+      "name": "Scarle Yonaguni",
+      "url": "",
+      "details": {
+        "debut": "",
+        "language": "",
+        "sub-group": ""
+      }
+    }
+  ],
+  "vshojo": [
+    {
+      "name": "Ironmouse",
+      "url": "",
+      "details": {
+        "debut": "",
+        "language": "",
+        "sub-group": ""
+      }
+    },
+    {
+      "name": "Silvervale",
+      "url": "",
+      "details": {
+        "debut": "",
+        "language": "",
+        "sub-group": ""
+      }
+    },
+    {
+      "name": "Nyanners",
+      "url": "",
+      "details": {
+        "debut": "",
+        "language": "",
+        "sub-group": ""
+      }
+    }
+  ],
+  "indie": [
+    {
+      "name": "Miori Celesta",
+      "url": "",
+      "details": {
+        "debut": "",
+        "language": "",
+        "sub-group": ""
+      }
+    }
+  ]
+}
