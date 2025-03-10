@@ -1,0 +1,78 @@
+html {
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+h1 {
+    all: unset;
+    font-size: 2rem;
+}
+
+p {
+    all: unset;
+    font-size: 1rem;
+}
+
+a {
+    all: unset;
+    font-size: 1rem;
+}
+
+body {
+    margin: 0;
+    background-color: #f7daf5;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+
+.selection-menu {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: white;
+}
+
+#vtuber-gallery {
+    flex: 3;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.vtuber-card {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+}
+
+.fave {
+    background-color: yellow;
+}
+
+.vtuber-card .imgContainer {
+    width: 85%;
+    height: 85%;
+}
+
+.vtuber-card img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#details {
+    flex: 1.25;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+.disabled {
+    display: none;
+}

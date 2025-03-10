@@ -8,13 +8,25 @@
 </head>
 <body>
 <main>
-    <section id="selection-menu">
+    <section class="selection-menu">
         <h1>Select a Group</h1>
-        <a>Hololive</a>
-        <a>Nijisanji</a>
-        <a>VShojo</a>
-        <a>Indie VTubers</a>
+        <a data-group="hololive">Hololive</a>
+        <a data-group="nijisanji">Nijisanji</a>
+        <a data-group="vshojo">VShojo</a>
+        <a data-group="indie">Indie VTubers</a>
     </section>
+    <div id="vtuber-gallery">
+        <section class="selection-warning">
+            <h2>No group selected</h2>
+            <p>Select a group from the side bar to continue</p>
+        </section>
+    </div>
+    <div id="details">
+        <section class="details-warning">
+        <h2>No VTuber Selected</h2>
+        <p>Hover over a VTuber to check their details</p>
+        </section>
+    </div>
 </main>
 </body>
 </html>
