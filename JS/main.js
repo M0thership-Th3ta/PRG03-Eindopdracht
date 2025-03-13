@@ -25,7 +25,7 @@ function init(){
 
 function menuClick(e){
     if(e.target.tagName === "A"){
-        loadData("JS/data.json", vtuberLoaded)
+        loadData("index.php", vtuberLoaded)
         enabledMenu = e.target.dataset.group
     }
     if(enabledMenu !== "none"){
