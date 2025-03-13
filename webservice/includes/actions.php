@@ -115,6 +115,15 @@ function getVtubers(): array
         ],
         "nijisanji" => [
             [
+                "name" => "Elira Pendora",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/elira.png?raw=true",
+                "details" => [
+                    "debut" => "2021/05/16",
+                    "languages" => ["English"],
+                    "sub_group" => "EN"
+                ]
+            ],
+            [
                 "name" => "Selen Tatsuki",
                 "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/selen.png?raw=true",
                 "details" => [
