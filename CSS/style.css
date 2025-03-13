@@ -20,12 +20,12 @@ h2 {
 }
 
 p {
-    all: unset;
+    margin: unset;
     font-size: 1rem;
 }
 
 a {
-    all: unset;
+    margin: unset;
     font-size: 1rem;
 }
 
@@ -37,7 +37,6 @@ body {
 main {
     display: flex;
     flex-direction: row;
-    height: 100vh;
 }
 
 
@@ -54,9 +53,12 @@ main {
 #vtuber-gallery {
     flex: 3;
     display: flex;
+    height: 100%;
     flex-wrap: wrap;
     gap: 10px;
     padding: 25px;
+    justify-content: center;
+    align-items: start;
 }
 
 
@@ -94,6 +96,7 @@ main {
 #details {
     flex: 1.25;
     display: flex;
+    height: 100vh;
     flex-direction: column;
     padding: 25px;
     background-color: white;
