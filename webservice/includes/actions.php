@@ -5,6 +5,15 @@ function getVtubers(): array
     return [
         "hololive" => [
             [
+                "name" => "Tokino Sora",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/calliope.png?raw=true",
+                "details" => [
+                    "debut" => "2020/09/12",
+                    "languages" => ["English", "Japanese"],
+                    "sub_group" => "HoloMyth"
+                ]
+            ],
+            [
                 "name" => "Calliope Mori",
                 "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/calliope.png?raw=true",
                 "details" => [
