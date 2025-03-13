@@ -48,6 +48,7 @@ main {
     text-align: center;
     background-color: white;
     padding: 25px 0;
+    border-right: 4px solid black;
 }
 
 #vtuber-gallery {
@@ -64,6 +65,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
     background-color: #edabdd;
     width: 200px;
     height: 200px;
@@ -95,6 +97,7 @@ main {
     flex-direction: column;
     padding: 25px;
     background-color: white;
+    border-left: 4px solid black;
 }
 
 .disabled {

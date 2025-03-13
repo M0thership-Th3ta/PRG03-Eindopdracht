@@ -5,12 +5,12 @@ function getVtubers(): array
     return [
         "hololive" => [
             [
-                "name" => "Tokino Sora",
-                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/calliope.png?raw=true",
+                "name" => "Sakura Miko",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/miko.png?raw=true",
                 "details" => [
-                    "debut" => "2020/09/12",
-                    "languages" => ["English", "Japanese"],
-                    "sub_group" => "HoloMyth"
+                    "debut" => "2018/08/01",
+                    "languages" => ["Japanese"],
+                    "sub_group" => "Hololive JP Gen 0"
                 ]
             ],
             [
