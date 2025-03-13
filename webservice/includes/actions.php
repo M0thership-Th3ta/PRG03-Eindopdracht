@@ -124,10 +124,37 @@ function getVtubers(): array
                 ]
             ],
             [
+                "name" => "Pomu Rainpuff",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/pomu.png?raw=true",
+                "details" => [
+                    "debut" => "2021/05/16",
+                    "languages" => ["English"],
+                    "sub_group" => "EN"
+                ]
+            ],
+            [
+                "name" => "Rosemi Lovelock",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/rosemi.png?raw=true",
+                "details" => [
+                    "debut" => "2021/07/17",
+                    "languages" => ["English"],
+                    "sub_group" => "EN"
+                ]
+            ],
+            [
                 "name" => "Selen Tatsuki",
                 "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/selen.png?raw=true",
                 "details" => [
                     "debut" => "2021/07/17",
+                    "languages" => ["English"],
+                    "sub_group" => "EN"
+                ]
+            ],
+            [
+                "name" => "Nina Kosaka",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/nina.png?raw=true",
+                "details" => [
+                    "debut" => "2021/10/09",
                     "languages" => ["English"],
                     "sub_group" => "EN"
                 ]
@@ -138,6 +165,33 @@ function getVtubers(): array
                 "details" => [
                     "debut" => "2022/07/25",
                     "languages" => ["English", "Spanish"],
+                    "sub_group" => "EN"
+                ]
+            ],
+            [
+            "name" => "Meloco Kyoran",
+            "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/meloco.png?raw=true",
+            "details" => [
+                "debut" => "2022/12/10",
+                "languages" => ["Japanese", "English"],
+                "sub_group" => "EN"
+                ]
+            ],
+            [
+                "name" => "Kotoka Torahime",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/kotoka.png?raw=true",
+                "details" => [
+                    "debut" => "2022/12/10",
+                    "languages" => ["Japanese", "English"],
+                    "sub_group" => "EN"
+                ]
+            ],
+            [
+                "name" => "Kunai Nakasato",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/kunai.png?raw=true",
+                "details" => [
+                    "debut" => "2023/10/27",
+                    "languages" => ["English"],
                     "sub_group" => "EN"
                 ]
             ]
