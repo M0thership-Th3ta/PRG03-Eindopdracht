@@ -46,7 +46,7 @@ main {
     flex-direction: column;
     text-align: center;
     background-color: white;
-    padding: 25px 0;
+    padding: 25px 0 0 0;
     border-right: 4px solid black;
 }
 
@@ -98,7 +98,7 @@ main {
     display: flex;
     height: 100vh;
     flex-direction: column;
-    padding: 25px;
+    padding: 25px 25px 0 25px;
     background-color: white;
     border-left: 4px solid black;
 }
