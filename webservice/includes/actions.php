@@ -198,11 +198,38 @@ function getVtubers(): array
         ],
         "vshojo" => [
             [
+                "name" => "Zentreya",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/zentreya.png?raw=true",
+                "details" => [
+                    "debut" => "2017/11/26",
+                    "languages" => ["English"],
+                    "sub_group" => "N/A"
+                ]
+            ],
+            [
                 "name" => "Ironmouse",
                 "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/ironmouse.png?raw=true",
                 "details" => [
                     "debut" => "2017/08/04",
                     "languages" => ["English", "Spanish"],
+                    "sub_group" => "N/A"
+                ]
+            ],
+            [
+                "name" => "Projekt Melody",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/melody.png?raw=true",
+                "details" => [
+                    "debut" => "2019/12/27",
+                    "languages" => ["English"],
+                    "sub_group" => "N/A"
+                ]
+            ],
+            [
+                "name" => "Froot",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/froot.png?raw=true",
+                "details" => [
+                    "debut" => "2020/11/27",
+                    "languages" => ["English"],
                     "sub_group" => "N/A"
                 ]
             ],
@@ -222,6 +249,24 @@ function getVtubers(): array
                     "debut" => "2020/07/17",
                     "languages" => ["English"],
                     "sub_group" => "Mythics"
+                ]
+            ],
+            [
+                "name" => "KSon",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/kson.png?raw=true",
+                "details" => [
+                    "debut" => "2016/05/01",
+                    "languages" => ["Japanese", "English"],
+                    "sub_group" => "NEXT"
+                ]
+            ],
+            [
+                "name" => "Matara Kan",
+                "url" => "https://github.com/M0thership-Th3ta/PRG03-Eindopdracht/blob/main/images/matara.png?raw=true",
+                "details" => [
+                    "debut" => "2023/10/15",
+                    "languages" => ["English"],
+                    "sub_group" => "N/A"
                 ]
             ]
         ],
